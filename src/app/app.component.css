@@ -1,0 +1,7 @@
+h1{
+    font-family: Roboto;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    color: rgba(0, 153, 255, 0.712);
+}
