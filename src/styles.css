@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+df-messenger {
+    --df-messenger-bot-message: #4472C4;
+    --df-messenger-button-titlebar-color: #FF841A;
+    --df-messenger-chat-background-color: #fafafa;
+    --df-messenger-font-color: white;
+    --df-messenger-send-icon: #4472C4;
+    --df-messenger-user-message: #FF841A;
+    }
+    
